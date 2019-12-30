@@ -1,0 +1,5 @@
+version: '2'
+
+services:
+    MQTT:
+        image: eclipse-mosquitto:1.6.8
